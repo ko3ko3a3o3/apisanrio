@@ -1,0 +1,23 @@
+{
+  "AdsController": {
+      
+    "AdNetwork"              : "admob",
+    
+    "AdMob_ID"               : "pub-6080547071548746",
+    "AdMob_Banner"           : "ca-app-pub-6080547071548746/2221549637",
+    "AdMob_InterstitialAd"   : "ca-app-pub-6080547071548746/1360395112",
+    "AdMob_RewardAd"         : "ca-app-pub-6080547071548746/7243346998",
+
+    
+    "Applovin_Banner"        : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
+    "Applovin_RewardAd"      : "a5f235ba1320fb35",
+
+    "Unity_GameID"           : "4076527",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    "Unity_RewardAd"         : "rewardedVideo",
+    
+    "IronSourceKey"          : "1197d7c85"
+  }
+}
